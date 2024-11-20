@@ -1,4 +1,4 @@
-# ✍Sudoku Solver & Player
+# ✍Sudoku Generator & Player
 
 This is a Python-based Sudoku application that allows users to play, solve, and get hints for Sudoku puzzles. The project features a graphical user interface (GUI) built using Tkinter and includes options for solving, resetting, and interacting with Sudoku puzzles.
 
