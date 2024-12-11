@@ -11,7 +11,6 @@ This is a Python-based Sudoku application that allows users to play, solve, and 
 - **Hints**: Get hints to fill empty cells with the correct numbers.
 - **Reset**: Reset the board to its initial state.
 - **Solve**: Solve the entire Sudoku puzzle automatically.
-- **Cool Dark-Themed GUI**: A modern, user-friendly interface with a dark mode theme.
 - **Error Prevention**: Users cannot enter numbers that already exist in the Sudoku puzzle.
 - **Dynamic Updates**: Hints and puzzle updates are handled interactively.
 
